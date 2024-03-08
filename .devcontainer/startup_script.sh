@@ -13,7 +13,7 @@ source ~/.bashrc
 
 echo "✅ brew installed successfully"
 
-brew install derailed/k9s/k9s
+#brew install derailed/k9s/k9s
 
 sudo apt-get install fzf -y
 
